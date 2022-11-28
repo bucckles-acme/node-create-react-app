@@ -24,7 +24,7 @@ const App = () => {
         <p>{message}</p>
         <p>Change me!</p>
         <p>
-          Edited <code>src/App.js</code> and opening a PR.
+          Edited <code>src/App.js</code> and opening a PR. Updated PR too.
         </p>
         <a
           className="App-link"
